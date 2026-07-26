@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Portfolio
+# Cybersecurity Portfolio
 
 Hi! I'm Joy Weze, a Computer Science graduate and aspiring Cybersecurity Analyst passionate about securing systems, analysing threats, and continuously improving my technical skills through hands-on learning.
 
@@ -6,19 +6,19 @@ This repository documents my cybersecurity journey through practical labs, techn
 
 ---
 
-# 🎯 Current Learning Journey
+# Current Learning Journey
 
-## ✅ Completed
+## Completed
 
 - Introduction to Information Security (Hack The Box Academy)
 - Introduction to Networking (Hack The Box Academy)
 - Network Foundations (Hack The Box Academy)
 
-## 🔄 Currently Learning
+## Currently Learning
 
 - Linux Fundamentals (Hack The Box Academy)
 
-## 📅 Upcoming
+## Upcoming
 
 - Windows Fundamentals
 - Active Directory
@@ -30,7 +30,7 @@ This repository documents my cybersecurity journey through practical labs, techn
 
 ---
 
-# 📂 Repository Structure
+#  Repository Structure
 
 ```
 Cybersecurity-Fundamentals/
@@ -50,7 +50,7 @@ Each section contains:
 
 ---
 
-# 🛠️ Skills Acquired
+# Skills Acquired
 
 ### Information Security
 
@@ -91,14 +91,14 @@ Each section contains:
 
 ---
 
-# 💻 Platforms
+#  Platforms
 
 - Hack The Box Academy
 - GitHub
 
 ---
 
-# 📈 Current Goals
+#  Current Goals
 
 - Complete Linux Fundamentals
 - Build a professional cybersecurity portfolio
@@ -108,7 +108,7 @@ Each section contains:
 
 ---
 
-# 📚 Repository Purpose
+# Repository Purpose
 
 This repository serves as my personal knowledge base where I document:
 
@@ -124,7 +124,7 @@ The goal is not just to complete courses but to demonstrate practical understand
 
 ---
 
-# 📫 Connect With Me
+#  Connect With Me
 
 **LinkedIn: https://www.linkedin.com/in/joy-weze-5494b0190?utm_source=share_via&utm_content=profile&utm_medium=member_android
 

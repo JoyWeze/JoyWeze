@@ -14,6 +14,11 @@ This repository documents my cybersecurity journey through practical labs, techn
 - Introduction to Networking (Hack The Box Academy)
 - Network Foundations (Hack The Box Academy)
 
+## Projects
+- Linux Authentication Log Analysis	
+- Network Reconnaissance & Service Enumeration	
+- Windows Security Event Log Analysis
+
 ## Currently Learning
 
 - Linux Fundamentals (Hack The Box Academy)

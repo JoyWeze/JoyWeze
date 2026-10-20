@@ -1,8 +1,8 @@
 # Cybersecurity Portfolio
 
-Hi! I'm Joy Weze, a Computer Science graduate Cybersecurity Analyst passionate about securing systems, analysing threats, and continuously improving my technical skills through hands-on learning.
+Hi! I'm Joy Weze, a Computer Science graduate and Cybersecurity Analyst passionate about securing systems, analysing threats, and continuously improving my technical skills through hands-on learning.
 
-This repository documents my cybersecurity journey through practical labs, technical notes, projects, and real-world concepts. Every topic is written in my own words to reinforce my understanding while building a portfolio that showcases my growth.
+This repository documents my cybersecurity journey through practical labs, technical notes, projects, and real-world concepts. It also contains some front-end projects I worked whilst I was in college.
 
 ---
 
